@@ -13,6 +13,12 @@
       "packed": false
     },
     {
+      "name": "model_ds920p.dtb",
+      "url": "https://github.com/RideWindOne/redpill-load/raw/develop/redpill-dtb/releases/model_ds920p.dtb",
+      "sha256": "3714b7200df6c078dc9595d563698007739d75fece0d114d2fb5845e8eadb574",
+      "packed": false
+    },
+    {
       "name": "dtc",
       "url": "https://github.com/pocopico/redpill-load/raw/develop/redpill-dtb/releases/dtc",
       "sha256": "14f7f87a5822050eab7c30a064912a6efe99f49bf6b896bbb38c2ba003803e78",
